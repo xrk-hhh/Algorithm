@@ -1,6 +1,6 @@
 # 洛谷
 
-共 207 份原始文件。按原平台、题单或比赛路径保留；模板中的全注释文件仍为学习存档，使用前需选择并恢复具体实现。
+共 207 份原始文件。按原平台、题单或比赛路径保留；多种方法和注释封存稿均保留，恢复入口见表格。
 
 ## 子目录
 
@@ -20,212 +20,212 @@
 
 ## 内容索引
 
-| 文件 | 专题 | 形态 |
-|---|---|---|
-| [02_Branch/01_test_demo1.c](02_Branch/01_test_demo1.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/02_test_demo2.c](02_Branch/02_test_demo2.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/03_test_demo3.c](02_Branch/03_test_demo3.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/04_test_demo4.c](02_Branch/04_test_demo4.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/05_test_demo5.c](02_Branch/05_test_demo5.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/06_test_demo6.c](02_Branch/06_test_demo6.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/07_test_demo7.c](02_Branch/07_test_demo7.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/08_test_demo8.c](02_Branch/08_test_demo8.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/09_test_demo9.c](02_Branch/09_test_demo9.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/10_test_demo10.c](02_Branch/10_test_demo10.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/11_test_demo11.c](02_Branch/11_test_demo11.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/12_test_demo12.c](02_Branch/12_test_demo12.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/13_test_demo13.c](02_Branch/13_test_demo13.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/14_test_demo14.c](02_Branch/14_test_demo14.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/15_test_demo15.c](02_Branch/15_test_demo15.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/16_test_demo16.c](02_Branch/16_test_demo16.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/17_test_demo17.c](02_Branch/17_test_demo17.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/18_test_demo18.c](02_Branch/18_test_demo18.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/19_test_demo19.c](02_Branch/19_test_demo19.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/20_test_demo20.c](02_Branch/20_test_demo20.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/21_test_demo21.c](02_Branch/21_test_demo21.c) | 分支入门 | 全注释/空文件 |
-| [02_Branch/22_test_demo22.c](02_Branch/22_test_demo22.c) | 分支入门 | 全注释/空文件 |
-| [03_Loop/01_test_demo1.c](03_Loop/01_test_demo1.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/02_test_demo2.c](03_Loop/02_test_demo2.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/03_test_demo3.c](03_Loop/03_test_demo3.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/04_test_demo4.c](03_Loop/04_test_demo4.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/05_test_demo5.c](03_Loop/05_test_demo5.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/06_test_demo6.c](03_Loop/06_test_demo6.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/07_test_demo7.c](03_Loop/07_test_demo7.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/08_test_demo8.c](03_Loop/08_test_demo8.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/09_test_demo9.c](03_Loop/09_test_demo9.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/10_test_demo10.c](03_Loop/10_test_demo10.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/11_test_demo11.c](03_Loop/11_test_demo11.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/12_test_demo12.c](03_Loop/12_test_demo12.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/13_test_demo13.c](03_Loop/13_test_demo13.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/14_test_demo14.c](03_Loop/14_test_demo14.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/15_test_demo15.c](03_Loop/15_test_demo15.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/16_test_demo16.c](03_Loop/16_test_demo16.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/17_test_demo17.c](03_Loop/17_test_demo17.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/18_test_demo18.c](03_Loop/18_test_demo18.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/19_test_demo19.c](03_Loop/19_test_demo19.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/20_test_demo20.c](03_Loop/20_test_demo20.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/21_test_demo21.c](03_Loop/21_test_demo21.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/22_test_demo22.c](03_Loop/22_test_demo22.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/23_test_demo23.c](03_Loop/23_test_demo23.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/24_test_demo24.c](03_Loop/24_test_demo24.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/25_test_demo25.c](03_Loop/25_test_demo25.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/26_test_demo26.c](03_Loop/26_test_demo26.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/27_test_demo27.c](03_Loop/27_test_demo27.c) | 循环入门 | 全注释/空文件 |
-| [03_Loop/28_test_demo28.c](03_Loop/28_test_demo28.c) | 循环入门 | 全注释/空文件 |
-| [04_Array/01_test_demo1.c](04_Array/01_test_demo1.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/02_test_demo2.c](04_Array/02_test_demo2.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/03_test_demo3.c](04_Array/03_test_demo3.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/04_test_demo4.c](04_Array/04_test_demo4.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/05_test_demo5.c](04_Array/05_test_demo5.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/06_test_demo6.c](04_Array/06_test_demo6.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/07_test_demo7.c](04_Array/07_test_demo7.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/08_test_demo8.c](04_Array/08_test_demo8.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/09_test_demo9.c](04_Array/09_test_demo9.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/10_test_demo10.c](04_Array/10_test_demo10.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/11_test_demo11.c](04_Array/11_test_demo11.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/12_test_demo12.c](04_Array/12_test_demo12.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/13_test_demo13.c](04_Array/13_test_demo13.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/14_test_demo14.c](04_Array/14_test_demo14.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/15_the_heartache_of_love_and_sorrow.c](04_Array/15_the_heartache_of_love_and_sorrow.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/16_bovine_bones_g.c](04_Array/16_bovine_bones_g.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/17_turn_on_the_light.c](04_Array/17_turn_on_the_light.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/18_compression_technology.c](04_Array/18_compression_technology.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/19_compression_technology_sequel.c](04_Array/19_compression_technology_sequel.c) | 数组入门 | 全注释/空文件 |
-| [04_Array/20_block_transformations.c](04_Array/20_block_transformations.c) | 数组入门 | 全注释/空文件 |
-| [05_String/01_little_book_boy_caesar_s_code.c](05_String/01_little_book_boy_caesar_s_code.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/02_determine_string_palindrome.c](05_String/02_determine_string_palindrome.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/03_oral_arithmetic_exercises.c](05_String/03_oral_arithmetic_exercises.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/04_bathing_eye_gaze.c](05_String/04_bathing_eye_gaze.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/05_string.c](05_String/05_string.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/06_find_the_first_appear_once_char.c](05_String/06_find_the_first_appear_once_char.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/07_mobile_phone.c](05_String/07_mobile_phone.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/08_password_compliance.c](05_String/08_password_compliance.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/09_digital_display.c](05_String/09_digital_display.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/10_word_processing_software.c](05_String/10_word_processing_software.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/11_automatic_correction.c](05_String/11_automatic_correction.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/12_xiaoguo_s_keyboard.c](05_String/12_xiaoguo_s_keyboard.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/13_word_override_restore.c](05_String/13_word_override_restore.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/14_stupid_monkey.c](05_String/14_stupid_monkey.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/15_statement_analysis.c](05_String/15_statement_analysis.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/16_reverse_of_numbers_upgraded_version.c](05_String/16_reverse_of_numbers_upgraded_version.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/17_snowden_s_password.c](05_String/17_snowden_s_password.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/18_your_ride_is_here.c](05_String/18_your_ride_is_here.c) | 字符串入门 | 全注释/空文件 |
-| [05_String/19_vertical_histogram.c](05_String/19_vertical_histogram.c) | 字符串入门 | 全注释/空文件 |
-| [06_Function_Structure/01_max_number.c](06_Function_Structure/01_max_number.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/02_digit_function.c](06_Function_Structure/02_digit_function.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/03_get_function1.c](06_Function_Structure/03_get_function1.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/04_get_function2.c](06_Function_Structure/04_get_function2.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/05_true_prime.c](06_Function_Structure/05_true_prime.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/06_the_most_powerful_student.c](06_Function_Structure/06_the_most_powerful_student.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/07_training.c](06_Function_Structure/07_training.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/08_equal_opponent_enhanced.c](06_Function_Structure/08_equal_opponent_enhanced.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/09_initial_screening_influenza_a.c](06_Function_Structure/09_initial_screening_influenza_a.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/10_who_get_the_most_scholarship.c](06_Function_Structure/10_who_get_the_most_scholarship.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/11_distance_function.c](06_Function_Structure/11_distance_function.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/12_prime_number_screen.c](06_Function_Structure/12_prime_number_screen.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/13_leap_year_display.c](06_Function_Structure/13_leap_year_display.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/14_singing_competition.c](06_Function_Structure/14_singing_competition.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/15_calculate_factorial.c](06_Function_Structure/15_calculate_factorial.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/16_monkey_eat_peaches.c](06_Function_Structure/16_monkey_eat_peaches.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/17_goldbach_conjecture.c](06_Function_Structure/17_goldbach_conjecture.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/18_smnesty_for_prisoners_of_war.c](06_Function_Structure/18_smnesty_for_prisoners_of_war.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/19_rating.c](06_Function_Structure/19_rating.c) | 函数与结构体 | 全注释/空文件 |
-| [06_Function_Structure/20_set_sum.c](06_Function_Structure/20_set_sum.c) | 函数与结构体 | 全注释/空文件 |
-| [24_chuanzhibei_1/01_final_exam_result.c](24_chuanzhibei_1/01_final_exam_result.c) | 待细分 | 全注释/空文件 |
-| [24_chuanzhibei_1/02_right_triang.c](24_chuanzhibei_1/02_right_triang.c) | 待细分 | 全注释/空文件 |
-| [24_chuanzhibei_1/03_course.c](24_chuanzhibei_1/03_course.c) | 待细分 | 全注释/空文件 |
-| [24_chuanzhibei_1/04_report_assignment_of_points.c](24_chuanzhibei_1/04_report_assignment_of_points.c) | 待细分 | 全注释/空文件 |
-| [24_chuanzhibei_1/05_statute_of_limitations_the_curse_of_the_moonrock_hat.c](24_chuanzhibei_1/05_statute_of_limitations_the_curse_of_the_moonrock_hat.c) | 待细分 | 全注释/空文件 |
-| [24_chuanzhibei_1/06_unit_conversion.c](24_chuanzhibei_1/06_unit_conversion.c) | 待细分 | 全注释/空文件 |
-| [24_chuanzhibei_1/07_sequence.c](24_chuanzhibei_1/07_sequence.c) | 待细分 | 全注释/空文件 |
-| [24_chuanzhibei_1/08_a_lianzi_s_software_engineering.c](24_chuanzhibei_1/08_a_lianzi_s_software_engineering.c) | 待细分 | 全注释/空文件 |
-| [24_chuanzhibei_1/09_ash_s_doubts.c](24_chuanzhibei_1/09_ash_s_doubts.c) | 待细分 | 全注释/空文件 |
-| [24_chuanzhibei_1/10_course_registation.c](24_chuanzhibei_1/10_course_registation.c) | 待细分 | 全注释/空文件 |
-| [24_chuanzhibei_2/01_judge_socre.c](24_chuanzhibei_2/01_judge_socre.c) | 待细分 | 全注释/空文件 |
-| [24_chuanzhibei_2/02_immortal_xu_fu_time_and_space.c](24_chuanzhibei_2/02_immortal_xu_fu_time_and_space.c) | 待细分 | 全注释/空文件 |
-| [24_chuanzhibei_2/03_1024_programmer_s_day_hand_out_orange.c](24_chuanzhibei_2/03_1024_programmer_s_day_hand_out_orange.c) | 待细分 | 全注释/空文件 |
-| [24_chuanzhibei_2/04_carrot_database.c](24_chuanzhibei_2/04_carrot_database.c) | 待细分 | 全注释/空文件 |
-| [24_chuanzhibei_2/05_playing_cards.c](24_chuanzhibei_2/05_playing_cards.c) | 待细分 | 全注释/空文件 |
-| [24_chuanzhibei_2/06_fujiwara_extinguishing_temple_wounds.c](24_chuanzhibei_2/06_fujiwara_extinguishing_temple_wounds.c) | 待细分 | 全注释/空文件 |
-| [24_chuanzhibei_2/07_small_card_and_prime_number.c](24_chuanzhibei_2/07_small_card_and_prime_number.c) | 待细分 | 全注释/空文件 |
-| [24_chuanzhibei_2/08_immortal_firebird_phoenix_wings_heavenly_soaring.c](24_chuanzhibei_2/08_immortal_firebird_phoenix_wings_heavenly_soaring.c) | 待细分 | 全注释/空文件 |
-| [Algorithm/01_Simulation_and_High_Precision/01_minesweeper_game.c](Algorithm/01_Simulation_and_High_Precision/01_minesweeper_game.c) | 模拟与高精度 | 全注释/空文件 |
-| [Algorithm/01_Simulation_and_High_Precision/02_a_plus_b_problem_high_precision.c](Algorithm/01_Simulation_and_High_Precision/02_a_plus_b_problem_high_precision.c) | 模拟与高精度 | 全注释/空文件 |
-| [Algorithm/01_Simulation_and_High_Precision/03_a_multiply_b_problem_high_precision.c](Algorithm/01_Simulation_and_High_Precision/03_a_multiply_b_problem_high_precision.c) | 模拟与高精度 | 全注释/空文件 |
-| [Algorithm/01_Simulation_and_High_Precision/04_magical_girl_small_scarlet.c](Algorithm/01_Simulation_and_High_Precision/04_magical_girl_small_scarlet.c) | 模拟与高精度 | 全注释/空文件 |
-| [Algorithm/01_Simulation_and_High_Precision/05_the_tamworth_two.c](Algorithm/01_Simulation_and_High_Precision/05_the_tamworth_two.c) | 模拟与高精度 | 全注释/空文件 |
-| [Algorithm/01_Simulation_and_High_Precision/06_factorial_digits.c](Algorithm/01_Simulation_and_High_Precision/06_factorial_digits.c) | 模拟与高精度 | 全注释/空文件 |
-| [Algorithm/01_Simulation_and_High_Precision/07_maximum_product.cpp](Algorithm/01_Simulation_and_High_Precision/07_maximum_product.cpp) | 模拟与高精度 | 全注释/空文件 |
-| [Algorithm/02_Sort/01_elect_the_student_union.c](Algorithm/02_Sort/01_elect_the_student_union.c) | 排序 | 全注释/空文件 |
-| [Algorithm/02_Sort/02_sort_template.c](Algorithm/02_Sort/02_sort_template.c) | 排序 | 全注释/空文件 |
-| [Algorithm/02_Sort/03_mingming_s_random_number.c](Algorithm/02_Sort/03_mingming_s_random_number.c) | 排序 | 全注释/空文件 |
-| [Algorithm/02_Sort/04_find_the_k_th_smallest_number.c](Algorithm/02_Sort/04_find_the_k_th_smallest_number.c) | 排序 | 全注释/空文件 |
-| [Algorithm/04_Recursion_and_Recurrence/01_counting_stairs.c](Algorithm/04_Recursion_and_Recurrence/01_counting_stairs.c) | 递推与递归 | 全注释/空文件 |
-| [Algorithm/04_Recursion_and_Recurrence/02_the_soldier_crossing_the_river.c](Algorithm/04_Recursion_and_Recurrence/02_the_soldier_crossing_the_river.c) | 递推与递归 | 全注释/空文件 |
-| [Answer Questions/01_answer_demo1.c](Answer%20Questions/01_answer_demo1.c) | 递推与递归 | 全注释/空文件 |
-| [Answer Questions/02_answer_demo2.c](Answer%20Questions/02_answer_demo2.c) | 递推与递归 | 全注释/空文件 |
-| [Answer Questions/03_hanoi_demo3.c](Answer%20Questions/03_hanoi_demo3.c) | 递推与递归 | 全注释/空文件 |
-| [Answer Questions/04_candy_demo4.c](Answer%20Questions/04_candy_demo4.c) | 递推与递归 | 全注释/空文件 |
-| [Answer Questions/05_step_climbing_demo5.c](Answer%20Questions/05_step_climbing_demo5.c) | 递推与递归 | 全注释/空文件 |
-| [Answer Questions/06_revise_demo6.c](Answer%20Questions/06_revise_demo6.c) | 递推与递归 | 全注释/空文件 |
-| [Answer Questions/07_quickpow_demo7.c](Answer%20Questions/07_quickpow_demo7.c) | 递推与递归 | 全注释/空文件 |
-| [Answer Questions/08_swap.c](Answer%20Questions/08_swap.c) | 递推与递归 | 全注释/空文件 |
-| [Contest/44/A.cpp](Contest/44/A.cpp) | 待细分 | 全注释/空文件 |
-| [Contest/44/B.cpp](Contest/44/B.cpp) | 待细分 | 全注释/空文件 |
-| [Contest/44/C.cpp](Contest/44/C.cpp) | 待细分 | 全注释/空文件 |
-| [Contest/44/D.cpp](Contest/44/D.cpp) | 待细分 | 全注释/空文件 |
-| [Contest/44/E.cpp](Contest/44/E.cpp) | 搜索与回溯 | 全注释/空文件 |
-| [Contest/44/F.cpp](Contest/44/F.cpp) | 待细分 | 全注释/空文件 |
-| [Contest/44/G.cpp](Contest/44/G.cpp) | 待细分 | 全注释/空文件 |
-| [Contest/44/H.cpp](Contest/44/H.cpp) | 待细分 | 全注释/空文件 |
-| [Improvement/01_Getting_Started/01_cantor_list.c](Improvement/01_Getting_Started/01_cantor_list.c) | 基础综合 | 全注释/空文件 |
-| [Improvement/01_Getting_Started/02_abacus_mental_arithmetic.c](Improvement/01_Getting_Started/02_abacus_mental_arithmetic.c) | 基础综合 | 全注释/空文件 |
-| [Improvement/01_Getting_Started/03_simulation_match.c](Improvement/01_Getting_Started/03_simulation_match.c) | 基础综合 | 全注释/空文件 |
-| [Improvement/01_Getting_Started/04_title_statistics.c](Improvement/01_Getting_Started/04_title_statistics.c) | 基础综合 | 全注释/空文件 |
-| [Improvement/01_Getting_Started/05_count_words.c](Improvement/01_Getting_Started/05_count_words.c) | 基础综合 | 全注释/空文件 |
-| [Improvement/01_Getting_Started/06_palindrome_date.c](Improvement/01_Getting_Started/06_palindrome_date.c) | 基础综合 | 全注释/空文件 |
-| [Improvement/01_Getting_Started/07_splice_number.c](Improvement/01_Getting_Started/07_splice_number.c) | 基础综合 | 全注释/空文件 |
-| [Improvement/01_Getting_Started/08_type_practice.c](Improvement/01_Getting_Started/08_type_practice.c) | 基础综合 | 全注释/空文件 |
-| [Improvement/01_Getting_Started/09_calculate_number.c](Improvement/01_Getting_Started/09_calculate_number.c) | 基础综合 | 全注释/空文件 |
-| [Improvement/01_Getting_Started/10_select_number.c](Improvement/01_Getting_Started/10_select_number.c) | 基础综合 | 全注释/空文件 |
-| [Improvement/01_Getting_Started/11_function.c](Improvement/01_Getting_Started/11_function.c) | 基础综合 | 全注释/空文件 |
-| [Improvement/01_Getting_Started/12_equal_difference_series.c](Improvement/01_Getting_Started/12_equal_difference_series.c) | 基础综合 | 全注释/空文件 |
-| [Improvement/01_Getting_Started/13_step_problem.c](Improvement/01_Getting_Started/13_step_problem.c) | 基础综合 | 全注释/空文件 |
-| [Improvement/01_Getting_Started/14_number_division.c](Improvement/01_Getting_Started/14_number_division.c) | 基础综合 | 全注释/空文件 |
-| [Improvement/01_Getting_Started/15_is_finally_the_starting_point_of_the_end.c](Improvement/01_Getting_Started/15_is_finally_the_starting_point_of_the_end.c) | 基础综合 | 全注释/空文件 |
-| [Improvement/02_Basic_Algorithms/01_Simulation/01_carpet_laying.c](Improvement/02_Basic_Algorithms/01_Simulation/01_carpet_laying.c) | 模拟 | 全注释/空文件 |
-| [Improvement/02_Basic_Algorithms/01_Simulation/02_polynomial_output.c](Improvement/02_Basic_Algorithms/01_Simulation/02_polynomial_output.c) | 模拟 | 全注释/空文件 |
-| [Improvement/02_Basic_Algorithms/01_Simulation/03_life_big_bang_edition_rock_scissors.c](Improvement/02_Basic_Algorithms/01_Simulation/03_life_big_bang_edition_rock_scissors.c) | 模拟 | 全注释/空文件 |
-| [Improvement/02_Basic_Algorithms/01_Simulation/04_toy_puzzle.c](Improvement/02_Basic_Algorithms/01_Simulation/04_toy_puzzle.c) | 模拟 | 全注释/空文件 |
-| [Improvement/02_Basic_Algorithms/01_Simulation/05_ping_pong.c](Improvement/02_Basic_Algorithms/01_Simulation/05_ping_pong.c) | 模拟 | 全注释/空文件 |
-| [Improvement/02_Basic_Algorithms/01_Simulation/06_statistics.c](Improvement/02_Basic_Algorithms/01_Simulation/06_statistics.c) | 模拟 | 全注释/空文件 |
-| [Improvement/02_Basic_Algorithms/02_Sort/01_template_sorting.c](Improvement/02_Basic_Algorithms/02_Sort/01_template_sorting.c) | 排序 | 全注释/空文件 |
-| [Improvement/02_Basic_Algorithms/02_Sort/02_mingming_random_number.c](Improvement/02_Basic_Algorithms/02_Sort/02_mingming_random_number.c) | 排序 | 全注释/空文件 |
-| [Improvement/02_Basic_Algorithms/03_Greedy/01_mixing_milk.c](Improvement/02_Basic_Algorithms/03_Greedy/01_mixing_milk.c) | 贪心 | 全注释/空文件 |
-| [Improvement/02_Basic_Algorithms/03_Greedy/02_jump.c](Improvement/02_Basic_Algorithms/03_Greedy/02_jump.c) | 贪心 | 全注释/空文件 |
-| [Improvement/02_Basic_Algorithms/03_Greedy/03_souvenir_group.c](Improvement/02_Basic_Algorithms/03_Greedy/03_souvenir_group.c) | 贪心 | 含main |
-| [Lan Qiao Cup practice/01_a_b_number_pairs.c](Lan%20Qiao%20Cup%20practice/01_a_b_number_pairs.c) | 二分与分数规划 | 全注释/空文件 |
-| [Lan Qiao Cup practice/02_bowling.c](Lan%20Qiao%20Cup%20practice/02_bowling.c) | 二分与分数规划 | 全注释/空文件 |
-| [Practice/B_3611_模板_传递闭包.cpp](Practice/B_3611_%E6%A8%A1%E6%9D%BF_%E4%BC%A0%E9%80%92%E9%97%AD%E5%8C%85.cpp) | 最短路与差分约束 | 全注释/空文件 |
-| [Practice/Luogu_P_14306.cpp](Practice/Luogu_P_14306.cpp) | 背包与动态规划 | 全注释/空文件 |
-| [Practice/P_1029_NOIP_2001_普及组_最大公约数和最小公倍数问题.cpp](Practice/P_1029_NOIP_2001_%E6%99%AE%E5%8F%8A%E7%BB%84_%E6%9C%80%E5%A4%A7%E5%85%AC%E7%BA%A6%E6%95%B0%E5%92%8C%E6%9C%80%E5%B0%8F%E5%85%AC%E5%80%8D%E6%95%B0%E9%97%AE%E9%A2%98.cpp) | 数论与组合数学 | 全注释/空文件 |
-| [Practice/P_1119_灾后重建.cpp](Practice/P_1119_%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA.cpp) | 最短路与差分约束 | 全注释/空文件 |
-| [Practice/P_1144_最短路计数.cpp](Practice/P_1144_%E6%9C%80%E7%9F%AD%E8%B7%AF%E8%AE%A1%E6%95%B0.cpp) | 最短路与差分约束 | 全注释/空文件 |
-| [Practice/P_1349_广义斐波那契数列.cpp](Practice/P_1349_%E5%B9%BF%E4%B9%89%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.cpp) | 矩阵快速幂 | 全注释/空文件 |
-| [Practice/P_1593_因子和.cpp](Practice/P_1593_%E5%9B%A0%E5%AD%90%E5%92%8C.cpp) | 数论与组合数学 | 全注释/空文件 |
-| [Practice/P_1608_路径统计.cpp](Practice/P_1608_%E8%B7%AF%E5%BE%84%E7%BB%9F%E8%AE%A1.cpp) | 最短路与差分约束 | 全注释/空文件 |
-| [Practice/P_1775_石子合并_弱化版.cpp](Practice/P_1775_%E7%9F%B3%E5%AD%90%E5%90%88%E5%B9%B6_%E5%BC%B1%E5%8C%96%E7%89%88.cpp) | 背包与动态规划 | 全注释/空文件 |
-| [Practice/P_1807_最长路.cpp](Practice/P_1807_%E6%9C%80%E9%95%BF%E8%B7%AF.cpp) | 拓扑排序与图遍历 | 全注释/空文件 |
-| [Practice/P_1835_素数密度.cpp](Practice/P_1835_%E7%B4%A0%E6%95%B0%E5%AF%86%E5%BA%A6.cpp) | 数论与组合数学 | 全注释/空文件 |
-| [Practice/P_1880_NOI_1995_石子合并.cpp](Practice/P_1880_NOI_1995_%E7%9F%B3%E5%AD%90%E5%90%88%E5%B9%B6.cpp) | 背包与动态规划 | 全注释/空文件 |
-| [Practice/P_1962_斐波那契数列.cpp](Practice/P_1962_%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.cpp) | 矩阵快速幂 | 全注释/空文件 |
-| [Practice/P_2822_NOIP_2016_提高组_组合数问题.cpp](Practice/P_2822_NOIP_2016_%E6%8F%90%E9%AB%98%E7%BB%84_%E7%BB%84%E5%90%88%E6%95%B0%E9%97%AE%E9%A2%98.cpp) | 数论与组合数学 | 全注释/空文件 |
-| [Practice/P_2865_USACO_06_NOV_Roadblocks_G.cpp](Practice/P_2865_USACO_06_NOV_Roadblocks_G.cpp) | 最短路与差分约束 | 全注释/空文件 |
-| [Practice/P_2910_USACO_08_OPEN_Clear_And_Present_Danger_S.cpp](Practice/P_2910_USACO_08_OPEN_Clear_And_Present_Danger_S.cpp) | 最短路与差分约束 | 全注释/空文件 |
-| [Practice/P_3146_USACO_16_OPEN_248_G.cpp](Practice/P_3146_USACO_16_OPEN_248_G.cpp) | 背包与动态规划 | 全注释/空文件 |
-| [Practice/P_3147_USACO_16_OPEN_262144_P.cpp](Practice/P_3147_USACO_16_OPEN_262144_P.cpp) | 背包与动态规划 | 全注释/空文件 |
-| [Practice/P_3275_SCOI_2011_糖果.cpp](Practice/P_3275_SCOI_2011_%E7%B3%96%E6%9E%9C.cpp) | 最短路与差分约束 | 全注释/空文件 |
-| [Practice/P_3385_模板_负环.cpp](Practice/P_3385_%E6%A8%A1%E6%9D%BF_%E8%B4%9F%E7%8E%AF.cpp) | 最短路与差分约束 | 全注释/空文件 |
-| [Practice/P_3601_签到题.cpp](Practice/P_3601_%E7%AD%BE%E5%88%B0%E9%A2%98.cpp) | 数论与组合数学 | 全注释/空文件 |
-| [Practice/P_3916_图的遍历.cpp](Practice/P_3916_%E5%9B%BE%E7%9A%84%E9%81%8D%E5%8E%86.cpp) | 拓扑排序与图遍历 | 全注释/空文件 |
-| [Practice/P_5960_模板_差分约束.cpp](Practice/P_5960_%E6%A8%A1%E6%9D%BF_%E5%B7%AE%E5%88%86%E7%BA%A6%E6%9D%9F.cpp) | 最短路与差分约束 | 全注释/空文件 |
+| 文件 | 专题 | 形态 | 恢复入口 |
+|---|---|---|---|
+| [02_Branch/01_test_demo1.c](02_Branch/01_test_demo1.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/01_test_demo1/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/02_test_demo2.c](02_Branch/02_test_demo2.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/02_test_demo2/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/03_test_demo3.c](02_Branch/03_test_demo3.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/03_test_demo3/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/04_test_demo4.c](02_Branch/04_test_demo4.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/04_test_demo4/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/05_test_demo5.c](02_Branch/05_test_demo5.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/05_test_demo5/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/06_test_demo6.c](02_Branch/06_test_demo6.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/06_test_demo6/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/07_test_demo7.c](02_Branch/07_test_demo7.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/07_test_demo7/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/08_test_demo8.c](02_Branch/08_test_demo8.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/08_test_demo8/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/09_test_demo9.c](02_Branch/09_test_demo9.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/09_test_demo9/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/10_test_demo10.c](02_Branch/10_test_demo10.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/10_test_demo10/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/11_test_demo11.c](02_Branch/11_test_demo11.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/11_test_demo11/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/12_test_demo12.c](02_Branch/12_test_demo12.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/12_test_demo12/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/13_test_demo13.c](02_Branch/13_test_demo13.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/13_test_demo13/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/14_test_demo14.c](02_Branch/14_test_demo14.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/14_test_demo14/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/15_test_demo15.c](02_Branch/15_test_demo15.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/15_test_demo15/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/16_test_demo16.c](02_Branch/16_test_demo16.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/16_test_demo16/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/17_test_demo17.c](02_Branch/17_test_demo17.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/17_test_demo17/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/18_test_demo18.c](02_Branch/18_test_demo18.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/18_test_demo18/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/19_test_demo19.c](02_Branch/19_test_demo19.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/19_test_demo19/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/20_test_demo20.c](02_Branch/20_test_demo20.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/20_test_demo20/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/21_test_demo21.c](02_Branch/21_test_demo21.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/21_test_demo21/%E6%96%B9%E6%B3%9501.c) |
+| [02_Branch/22_test_demo22.c](02_Branch/22_test_demo22.c) | 分支入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/02_Branch/22_test_demo22/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/01_test_demo1.c](03_Loop/01_test_demo1.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/01_test_demo1/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/02_test_demo2.c](03_Loop/02_test_demo2.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/02_test_demo2/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/03_test_demo3.c](03_Loop/03_test_demo3.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/03_test_demo3/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/04_test_demo4.c](03_Loop/04_test_demo4.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/04_test_demo4/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/05_test_demo5.c](03_Loop/05_test_demo5.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/05_test_demo5/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/06_test_demo6.c](03_Loop/06_test_demo6.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/06_test_demo6/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/07_test_demo7.c](03_Loop/07_test_demo7.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/07_test_demo7/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/08_test_demo8.c](03_Loop/08_test_demo8.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/08_test_demo8/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/09_test_demo9.c](03_Loop/09_test_demo9.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/09_test_demo9/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/10_test_demo10.c](03_Loop/10_test_demo10.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/10_test_demo10/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/11_test_demo11.c](03_Loop/11_test_demo11.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/11_test_demo11/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/12_test_demo12.c](03_Loop/12_test_demo12.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/12_test_demo12/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/13_test_demo13.c](03_Loop/13_test_demo13.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/13_test_demo13/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/14_test_demo14.c](03_Loop/14_test_demo14.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/14_test_demo14/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/15_test_demo15.c](03_Loop/15_test_demo15.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/15_test_demo15/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/16_test_demo16.c](03_Loop/16_test_demo16.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/16_test_demo16/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/17_test_demo17.c](03_Loop/17_test_demo17.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/17_test_demo17/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/18_test_demo18.c](03_Loop/18_test_demo18.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/18_test_demo18/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/19_test_demo19.c](03_Loop/19_test_demo19.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/19_test_demo19/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/20_test_demo20.c](03_Loop/20_test_demo20.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/20_test_demo20/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/21_test_demo21.c](03_Loop/21_test_demo21.c) | 循环入门 | 多方法（2 种） | [2 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/21_test_demo21/README.md) |
+| [03_Loop/22_test_demo22.c](03_Loop/22_test_demo22.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/22_test_demo22/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/23_test_demo23.c](03_Loop/23_test_demo23.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/23_test_demo23/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/24_test_demo24.c](03_Loop/24_test_demo24.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/24_test_demo24/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/25_test_demo25.c](03_Loop/25_test_demo25.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/25_test_demo25/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/26_test_demo26.c](03_Loop/26_test_demo26.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/26_test_demo26/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/27_test_demo27.c](03_Loop/27_test_demo27.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/27_test_demo27/%E6%96%B9%E6%B3%9501.c) |
+| [03_Loop/28_test_demo28.c](03_Loop/28_test_demo28.c) | 循环入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/03_Loop/28_test_demo28/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/01_test_demo1.c](04_Array/01_test_demo1.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/01_test_demo1/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/02_test_demo2.c](04_Array/02_test_demo2.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/02_test_demo2/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/03_test_demo3.c](04_Array/03_test_demo3.c) | 数组入门 | 多方法（2 种） | [2 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/03_test_demo3/README.md) |
+| [04_Array/04_test_demo4.c](04_Array/04_test_demo4.c) | 数组入门 | 多方法（2 种） | [2 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/04_test_demo4/README.md) |
+| [04_Array/05_test_demo5.c](04_Array/05_test_demo5.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/05_test_demo5/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/06_test_demo6.c](04_Array/06_test_demo6.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/06_test_demo6/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/07_test_demo7.c](04_Array/07_test_demo7.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/07_test_demo7/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/08_test_demo8.c](04_Array/08_test_demo8.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/08_test_demo8/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/09_test_demo9.c](04_Array/09_test_demo9.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/09_test_demo9/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/10_test_demo10.c](04_Array/10_test_demo10.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/10_test_demo10/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/11_test_demo11.c](04_Array/11_test_demo11.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/11_test_demo11/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/12_test_demo12.c](04_Array/12_test_demo12.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/12_test_demo12/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/13_test_demo13.c](04_Array/13_test_demo13.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/13_test_demo13/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/14_test_demo14.c](04_Array/14_test_demo14.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/14_test_demo14/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/15_the_heartache_of_love_and_sorrow.c](04_Array/15_the_heartache_of_love_and_sorrow.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/15_the_heartache_of_love_and_sorrow/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/16_bovine_bones_g.c](04_Array/16_bovine_bones_g.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/16_bovine_bones_g/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/17_turn_on_the_light.c](04_Array/17_turn_on_the_light.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/17_turn_on_the_light/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/18_compression_technology.c](04_Array/18_compression_technology.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/18_compression_technology/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/19_compression_technology_sequel.c](04_Array/19_compression_technology_sequel.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/19_compression_technology_sequel/%E6%96%B9%E6%B3%9501.c) |
+| [04_Array/20_block_transformations.c](04_Array/20_block_transformations.c) | 数组入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/04_Array/20_block_transformations/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/01_little_book_boy_caesar_s_code.c](05_String/01_little_book_boy_caesar_s_code.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/01_little_book_boy_caesar_s_code/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/02_determine_string_palindrome.c](05_String/02_determine_string_palindrome.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/02_determine_string_palindrome/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/03_oral_arithmetic_exercises.c](05_String/03_oral_arithmetic_exercises.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/03_oral_arithmetic_exercises/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/04_bathing_eye_gaze.c](05_String/04_bathing_eye_gaze.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/04_bathing_eye_gaze/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/05_string.c](05_String/05_string.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/05_string/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/06_find_the_first_appear_once_char.c](05_String/06_find_the_first_appear_once_char.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/06_find_the_first_appear_once_char/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/07_mobile_phone.c](05_String/07_mobile_phone.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/07_mobile_phone/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/08_password_compliance.c](05_String/08_password_compliance.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/08_password_compliance/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/09_digital_display.c](05_String/09_digital_display.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/09_digital_display/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/10_word_processing_software.c](05_String/10_word_processing_software.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/10_word_processing_software/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/11_automatic_correction.c](05_String/11_automatic_correction.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/11_automatic_correction/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/12_xiaoguo_s_keyboard.c](05_String/12_xiaoguo_s_keyboard.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/12_xiaoguo_s_keyboard/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/13_word_override_restore.c](05_String/13_word_override_restore.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/13_word_override_restore/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/14_stupid_monkey.c](05_String/14_stupid_monkey.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/14_stupid_monkey/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/15_statement_analysis.c](05_String/15_statement_analysis.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/15_statement_analysis/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/16_reverse_of_numbers_upgraded_version.c](05_String/16_reverse_of_numbers_upgraded_version.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/16_reverse_of_numbers_upgraded_version/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/17_snowden_s_password.c](05_String/17_snowden_s_password.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/17_snowden_s_password/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/18_your_ride_is_here.c](05_String/18_your_ride_is_here.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/18_your_ride_is_here/%E6%96%B9%E6%B3%9501.c) |
+| [05_String/19_vertical_histogram.c](05_String/19_vertical_histogram.c) | 字符串入门 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/05_String/19_vertical_histogram/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/01_max_number.c](06_Function_Structure/01_max_number.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/01_max_number/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/02_digit_function.c](06_Function_Structure/02_digit_function.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/02_digit_function/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/03_get_function1.c](06_Function_Structure/03_get_function1.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/03_get_function1/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/04_get_function2.c](06_Function_Structure/04_get_function2.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/04_get_function2/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/05_true_prime.c](06_Function_Structure/05_true_prime.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/05_true_prime/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/06_the_most_powerful_student.c](06_Function_Structure/06_the_most_powerful_student.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/06_the_most_powerful_student/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/07_training.c](06_Function_Structure/07_training.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/07_training/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/08_equal_opponent_enhanced.c](06_Function_Structure/08_equal_opponent_enhanced.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/08_equal_opponent_enhanced/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/09_initial_screening_influenza_a.c](06_Function_Structure/09_initial_screening_influenza_a.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/09_initial_screening_influenza_a/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/10_who_get_the_most_scholarship.c](06_Function_Structure/10_who_get_the_most_scholarship.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/10_who_get_the_most_scholarship/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/11_distance_function.c](06_Function_Structure/11_distance_function.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/11_distance_function/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/12_prime_number_screen.c](06_Function_Structure/12_prime_number_screen.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/12_prime_number_screen/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/13_leap_year_display.c](06_Function_Structure/13_leap_year_display.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/13_leap_year_display/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/14_singing_competition.c](06_Function_Structure/14_singing_competition.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/14_singing_competition/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/15_calculate_factorial.c](06_Function_Structure/15_calculate_factorial.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/15_calculate_factorial/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/16_monkey_eat_peaches.c](06_Function_Structure/16_monkey_eat_peaches.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/16_monkey_eat_peaches/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/17_goldbach_conjecture.c](06_Function_Structure/17_goldbach_conjecture.c) | 函数与结构体 | 多方法（2 种） | [2 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/17_goldbach_conjecture/README.md) |
+| [06_Function_Structure/18_smnesty_for_prisoners_of_war.c](06_Function_Structure/18_smnesty_for_prisoners_of_war.c) | 函数与结构体 | 多方法（2 种） | [2 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/18_smnesty_for_prisoners_of_war/README.md) |
+| [06_Function_Structure/19_rating.c](06_Function_Structure/19_rating.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/19_rating/%E6%96%B9%E6%B3%9501.c) |
+| [06_Function_Structure/20_set_sum.c](06_Function_Structure/20_set_sum.c) | 函数与结构体 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/06_Function_Structure/20_set_sum/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_1/01_final_exam_result.c](24_chuanzhibei_1/01_final_exam_result.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_1/01_final_exam_result/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_1/02_right_triang.c](24_chuanzhibei_1/02_right_triang.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_1/02_right_triang/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_1/03_course.c](24_chuanzhibei_1/03_course.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_1/03_course/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_1/04_report_assignment_of_points.c](24_chuanzhibei_1/04_report_assignment_of_points.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_1/04_report_assignment_of_points/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_1/05_statute_of_limitations_the_curse_of_the_moonrock_hat.c](24_chuanzhibei_1/05_statute_of_limitations_the_curse_of_the_moonrock_hat.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_1/05_statute_of_limitations_the_curse_of_the_moonrock_hat/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_1/06_unit_conversion.c](24_chuanzhibei_1/06_unit_conversion.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_1/06_unit_conversion/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_1/07_sequence.c](24_chuanzhibei_1/07_sequence.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_1/07_sequence/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_1/08_a_lianzi_s_software_engineering.c](24_chuanzhibei_1/08_a_lianzi_s_software_engineering.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_1/08_a_lianzi_s_software_engineering/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_1/09_ash_s_doubts.c](24_chuanzhibei_1/09_ash_s_doubts.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_1/09_ash_s_doubts/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_1/10_course_registation.c](24_chuanzhibei_1/10_course_registation.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_1/10_course_registation/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_2/01_judge_socre.c](24_chuanzhibei_2/01_judge_socre.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_2/01_judge_socre/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_2/02_immortal_xu_fu_time_and_space.c](24_chuanzhibei_2/02_immortal_xu_fu_time_and_space.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_2/02_immortal_xu_fu_time_and_space/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_2/03_1024_programmer_s_day_hand_out_orange.c](24_chuanzhibei_2/03_1024_programmer_s_day_hand_out_orange.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_2/03_1024_programmer_s_day_hand_out_orange/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_2/04_carrot_database.c](24_chuanzhibei_2/04_carrot_database.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_2/04_carrot_database/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_2/05_playing_cards.c](24_chuanzhibei_2/05_playing_cards.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_2/05_playing_cards/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_2/06_fujiwara_extinguishing_temple_wounds.c](24_chuanzhibei_2/06_fujiwara_extinguishing_temple_wounds.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_2/06_fujiwara_extinguishing_temple_wounds/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_2/07_small_card_and_prime_number.c](24_chuanzhibei_2/07_small_card_and_prime_number.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_2/07_small_card_and_prime_number/%E6%96%B9%E6%B3%9501.c) |
+| [24_chuanzhibei_2/08_immortal_firebird_phoenix_wings_heavenly_soaring.c](24_chuanzhibei_2/08_immortal_firebird_phoenix_wings_heavenly_soaring.c) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/24_chuanzhibei_2/08_immortal_firebird_phoenix_wings_heavenly_soaring/%E6%96%B9%E6%B3%9501.c) |
+| [Algorithm/01_Simulation_and_High_Precision/01_minesweeper_game.c](Algorithm/01_Simulation_and_High_Precision/01_minesweeper_game.c) | 模拟与高精度 | 多方法（2 种） | [2 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Algorithm/01_Simulation_and_High_Precision/01_minesweeper_game/README.md) |
+| [Algorithm/01_Simulation_and_High_Precision/02_a_plus_b_problem_high_precision.c](Algorithm/01_Simulation_and_High_Precision/02_a_plus_b_problem_high_precision.c) | 模拟与高精度 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Algorithm/01_Simulation_and_High_Precision/02_a_plus_b_problem_high_precision/%E6%96%B9%E6%B3%9501.c) |
+| [Algorithm/01_Simulation_and_High_Precision/03_a_multiply_b_problem_high_precision.c](Algorithm/01_Simulation_and_High_Precision/03_a_multiply_b_problem_high_precision.c) | 模拟与高精度 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Algorithm/01_Simulation_and_High_Precision/03_a_multiply_b_problem_high_precision/%E6%96%B9%E6%B3%9501.c) |
+| [Algorithm/01_Simulation_and_High_Precision/04_magical_girl_small_scarlet.c](Algorithm/01_Simulation_and_High_Precision/04_magical_girl_small_scarlet.c) | 模拟与高精度 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Algorithm/01_Simulation_and_High_Precision/04_magical_girl_small_scarlet/%E6%96%B9%E6%B3%9501.c) |
+| [Algorithm/01_Simulation_and_High_Precision/05_the_tamworth_two.c](Algorithm/01_Simulation_and_High_Precision/05_the_tamworth_two.c) | 模拟与高精度 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Algorithm/01_Simulation_and_High_Precision/05_the_tamworth_two/%E6%96%B9%E6%B3%9501.c) |
+| [Algorithm/01_Simulation_and_High_Precision/06_factorial_digits.c](Algorithm/01_Simulation_and_High_Precision/06_factorial_digits.c) | 模拟与高精度 | 多方法（2 种） | [2 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Algorithm/01_Simulation_and_High_Precision/06_factorial_digits/README.md) |
+| [Algorithm/01_Simulation_and_High_Precision/07_maximum_product.cpp](Algorithm/01_Simulation_and_High_Precision/07_maximum_product.cpp) | 模拟与高精度 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Algorithm/01_Simulation_and_High_Precision/07_maximum_product/%E6%96%B9%E6%B3%9501.cpp) |
+| [Algorithm/02_Sort/01_elect_the_student_union.c](Algorithm/02_Sort/01_elect_the_student_union.c) | 排序 | 多方法（2 种） | [2 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Algorithm/02_Sort/01_elect_the_student_union/README.md) |
+| [Algorithm/02_Sort/02_sort_template.c](Algorithm/02_Sort/02_sort_template.c) | 排序 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Algorithm/02_Sort/02_sort_template/%E6%96%B9%E6%B3%9501.c) |
+| [Algorithm/02_Sort/03_mingming_s_random_number.c](Algorithm/02_Sort/03_mingming_s_random_number.c) | 排序 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Algorithm/02_Sort/03_mingming_s_random_number/%E6%96%B9%E6%B3%9501.c) |
+| [Algorithm/02_Sort/04_find_the_k_th_smallest_number.c](Algorithm/02_Sort/04_find_the_k_th_smallest_number.c) | 排序 | 多方法（2 种） | [2 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Algorithm/02_Sort/04_find_the_k_th_smallest_number/README.md) |
+| [Algorithm/04_Recursion_and_Recurrence/01_counting_stairs.c](Algorithm/04_Recursion_and_Recurrence/01_counting_stairs.c) | 递推与递归 | 多方法（3 种） | [3 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Algorithm/04_Recursion_and_Recurrence/01_counting_stairs/README.md) |
+| [Algorithm/04_Recursion_and_Recurrence/02_the_soldier_crossing_the_river.c](Algorithm/04_Recursion_and_Recurrence/02_the_soldier_crossing_the_river.c) | 递推与递归 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Algorithm/04_Recursion_and_Recurrence/02_the_soldier_crossing_the_river/%E6%96%B9%E6%B3%9501.c) |
+| [Answer Questions/01_answer_demo1.c](Answer%20Questions/01_answer_demo1.c) | 递推与递归 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Answer%20Questions/01_answer_demo1/%E6%96%B9%E6%B3%9501.c) |
+| [Answer Questions/02_answer_demo2.c](Answer%20Questions/02_answer_demo2.c) | 递推与递归 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Answer%20Questions/02_answer_demo2/%E6%96%B9%E6%B3%9501.c) |
+| [Answer Questions/03_hanoi_demo3.c](Answer%20Questions/03_hanoi_demo3.c) | 递推与递归 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Answer%20Questions/03_hanoi_demo3/%E6%96%B9%E6%B3%9501.c) |
+| [Answer Questions/04_candy_demo4.c](Answer%20Questions/04_candy_demo4.c) | 递推与递归 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Answer%20Questions/04_candy_demo4/%E6%96%B9%E6%B3%9501.c) |
+| [Answer Questions/05_step_climbing_demo5.c](Answer%20Questions/05_step_climbing_demo5.c) | 递推与递归 | 接口类或函数片段 | [函数/入口片段](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Answer%20Questions/05_step_climbing_demo5/%E7%89%87%E6%AE%B5.c) |
+| [Answer Questions/06_revise_demo6.c](Answer%20Questions/06_revise_demo6.c) | 递推与递归 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Answer%20Questions/06_revise_demo6/%E6%96%B9%E6%B3%9501.c) |
+| [Answer Questions/07_quickpow_demo7.c](Answer%20Questions/07_quickpow_demo7.c) | 递推与递归 | 接口类或函数片段 | [函数/入口片段](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Answer%20Questions/07_quickpow_demo7/%E7%89%87%E6%AE%B5.c) |
+| [Answer Questions/08_swap.c](Answer%20Questions/08_swap.c) | 递推与递归 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Answer%20Questions/08_swap/%E6%96%B9%E6%B3%9501.c) |
+| [Contest/44/A.cpp](Contest/44/A.cpp) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Contest/44/A/%E6%96%B9%E6%B3%9501.cpp) |
+| [Contest/44/B.cpp](Contest/44/B.cpp) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Contest/44/B/%E6%96%B9%E6%B3%9501.cpp) |
+| [Contest/44/C.cpp](Contest/44/C.cpp) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Contest/44/C/%E6%96%B9%E6%B3%9501.cpp) |
+| [Contest/44/D.cpp](Contest/44/D.cpp) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Contest/44/D/%E6%96%B9%E6%B3%9501.cpp) |
+| [Contest/44/E.cpp](Contest/44/E.cpp) | 搜索与回溯 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Contest/44/E/%E6%96%B9%E6%B3%9501.cpp) |
+| [Contest/44/F.cpp](Contest/44/F.cpp) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Contest/44/F/%E6%96%B9%E6%B3%9501.cpp) |
+| [Contest/44/G.cpp](Contest/44/G.cpp) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Contest/44/G/%E6%96%B9%E6%B3%9501.cpp) |
+| [Contest/44/H.cpp](Contest/44/H.cpp) | 待细分 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Contest/44/H/%E6%96%B9%E6%B3%9501.cpp) |
+| [Improvement/01_Getting_Started/01_cantor_list.c](Improvement/01_Getting_Started/01_cantor_list.c) | 基础综合 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/01_Getting_Started/01_cantor_list/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/01_Getting_Started/02_abacus_mental_arithmetic.c](Improvement/01_Getting_Started/02_abacus_mental_arithmetic.c) | 基础综合 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/01_Getting_Started/02_abacus_mental_arithmetic/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/01_Getting_Started/03_simulation_match.c](Improvement/01_Getting_Started/03_simulation_match.c) | 基础综合 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/01_Getting_Started/03_simulation_match/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/01_Getting_Started/04_title_statistics.c](Improvement/01_Getting_Started/04_title_statistics.c) | 基础综合 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/01_Getting_Started/04_title_statistics/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/01_Getting_Started/05_count_words.c](Improvement/01_Getting_Started/05_count_words.c) | 基础综合 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/01_Getting_Started/05_count_words/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/01_Getting_Started/06_palindrome_date.c](Improvement/01_Getting_Started/06_palindrome_date.c) | 基础综合 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/01_Getting_Started/06_palindrome_date/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/01_Getting_Started/07_splice_number.c](Improvement/01_Getting_Started/07_splice_number.c) | 基础综合 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/01_Getting_Started/07_splice_number/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/01_Getting_Started/08_type_practice.c](Improvement/01_Getting_Started/08_type_practice.c) | 基础综合 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/01_Getting_Started/08_type_practice/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/01_Getting_Started/09_calculate_number.c](Improvement/01_Getting_Started/09_calculate_number.c) | 基础综合 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/01_Getting_Started/09_calculate_number/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/01_Getting_Started/10_select_number.c](Improvement/01_Getting_Started/10_select_number.c) | 基础综合 | 多方法（2 种） | [2 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/01_Getting_Started/10_select_number/README.md) |
+| [Improvement/01_Getting_Started/11_function.c](Improvement/01_Getting_Started/11_function.c) | 基础综合 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/01_Getting_Started/11_function/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/01_Getting_Started/12_equal_difference_series.c](Improvement/01_Getting_Started/12_equal_difference_series.c) | 基础综合 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/01_Getting_Started/12_equal_difference_series/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/01_Getting_Started/13_step_problem.c](Improvement/01_Getting_Started/13_step_problem.c) | 基础综合 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/01_Getting_Started/13_step_problem/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/01_Getting_Started/14_number_division.c](Improvement/01_Getting_Started/14_number_division.c) | 基础综合 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/01_Getting_Started/14_number_division/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/01_Getting_Started/15_is_finally_the_starting_point_of_the_end.c](Improvement/01_Getting_Started/15_is_finally_the_starting_point_of_the_end.c) | 基础综合 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/01_Getting_Started/15_is_finally_the_starting_point_of_the_end/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/02_Basic_Algorithms/01_Simulation/01_carpet_laying.c](Improvement/02_Basic_Algorithms/01_Simulation/01_carpet_laying.c) | 模拟 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/02_Basic_Algorithms/01_Simulation/01_carpet_laying/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/02_Basic_Algorithms/01_Simulation/02_polynomial_output.c](Improvement/02_Basic_Algorithms/01_Simulation/02_polynomial_output.c) | 模拟 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/02_Basic_Algorithms/01_Simulation/02_polynomial_output/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/02_Basic_Algorithms/01_Simulation/03_life_big_bang_edition_rock_scissors.c](Improvement/02_Basic_Algorithms/01_Simulation/03_life_big_bang_edition_rock_scissors.c) | 模拟 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/02_Basic_Algorithms/01_Simulation/03_life_big_bang_edition_rock_scissors/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/02_Basic_Algorithms/01_Simulation/04_toy_puzzle.c](Improvement/02_Basic_Algorithms/01_Simulation/04_toy_puzzle.c) | 模拟 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/02_Basic_Algorithms/01_Simulation/04_toy_puzzle/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/02_Basic_Algorithms/01_Simulation/05_ping_pong.c](Improvement/02_Basic_Algorithms/01_Simulation/05_ping_pong.c) | 模拟 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/02_Basic_Algorithms/01_Simulation/05_ping_pong/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/02_Basic_Algorithms/01_Simulation/06_statistics.c](Improvement/02_Basic_Algorithms/01_Simulation/06_statistics.c) | 模拟 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/02_Basic_Algorithms/01_Simulation/06_statistics/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/02_Basic_Algorithms/02_Sort/01_template_sorting.c](Improvement/02_Basic_Algorithms/02_Sort/01_template_sorting.c) | 排序 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/02_Basic_Algorithms/02_Sort/01_template_sorting/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/02_Basic_Algorithms/02_Sort/02_mingming_random_number.c](Improvement/02_Basic_Algorithms/02_Sort/02_mingming_random_number.c) | 排序 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/02_Basic_Algorithms/02_Sort/02_mingming_random_number/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/02_Basic_Algorithms/03_Greedy/01_mixing_milk.c](Improvement/02_Basic_Algorithms/03_Greedy/01_mixing_milk.c) | 贪心 | 多方法（2 种） | [2 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/02_Basic_Algorithms/03_Greedy/01_mixing_milk/README.md) |
+| [Improvement/02_Basic_Algorithms/03_Greedy/02_jump.c](Improvement/02_Basic_Algorithms/03_Greedy/02_jump.c) | 贪心 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Improvement/02_Basic_Algorithms/03_Greedy/02_jump/%E6%96%B9%E6%B3%9501.c) |
+| [Improvement/02_Basic_Algorithms/03_Greedy/03_souvenir_group.c](Improvement/02_Basic_Algorithms/03_Greedy/03_souvenir_group.c) | 贪心 | 直接源码 | 直接使用原文件 |
+| [Lan Qiao Cup practice/01_a_b_number_pairs.c](Lan%20Qiao%20Cup%20practice/01_a_b_number_pairs.c) | 二分与分数规划 | 多方法（2 种） | [2 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Lan%20Qiao%20Cup%20practice/01_a_b_number_pairs/README.md) |
+| [Lan Qiao Cup practice/02_bowling.c](Lan%20Qiao%20Cup%20practice/02_bowling.c) | 二分与分数规划 | 多方法（3 种） | [3 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Lan%20Qiao%20Cup%20practice/02_bowling/README.md) |
+| [Practice/B_3611_模板_传递闭包.cpp](Practice/B_3611_%E6%A8%A1%E6%9D%BF_%E4%BC%A0%E9%80%92%E9%97%AD%E5%8C%85.cpp) | 最短路与差分约束 | 多方法（2 种） | [2 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/B_3611_%E6%A8%A1%E6%9D%BF_%E4%BC%A0%E9%80%92%E9%97%AD%E5%8C%85/README.md) |
+| [Practice/Luogu_P_14306.cpp](Practice/Luogu_P_14306.cpp) | 背包与动态规划 | 多方法（2 种） | [2 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/Luogu_P_14306/README.md) |
+| [Practice/P_1029_NOIP_2001_普及组_最大公约数和最小公倍数问题.cpp](Practice/P_1029_NOIP_2001_%E6%99%AE%E5%8F%8A%E7%BB%84_%E6%9C%80%E5%A4%A7%E5%85%AC%E7%BA%A6%E6%95%B0%E5%92%8C%E6%9C%80%E5%B0%8F%E5%85%AC%E5%80%8D%E6%95%B0%E9%97%AE%E9%A2%98.cpp) | 数论与组合数学 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_1029_NOIP_2001_%E6%99%AE%E5%8F%8A%E7%BB%84_%E6%9C%80%E5%A4%A7%E5%85%AC%E7%BA%A6%E6%95%B0%E5%92%8C%E6%9C%80%E5%B0%8F%E5%85%AC%E5%80%8D%E6%95%B0%E9%97%AE%E9%A2%98/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_1119_灾后重建.cpp](Practice/P_1119_%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA.cpp) | 最短路与差分约束 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_1119_%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_1144_最短路计数.cpp](Practice/P_1144_%E6%9C%80%E7%9F%AD%E8%B7%AF%E8%AE%A1%E6%95%B0.cpp) | 最短路与差分约束 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_1144_%E6%9C%80%E7%9F%AD%E8%B7%AF%E8%AE%A1%E6%95%B0/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_1349_广义斐波那契数列.cpp](Practice/P_1349_%E5%B9%BF%E4%B9%89%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.cpp) | 矩阵快速幂 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_1349_%E5%B9%BF%E4%B9%89%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_1593_因子和.cpp](Practice/P_1593_%E5%9B%A0%E5%AD%90%E5%92%8C.cpp) | 数论与组合数学 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_1593_%E5%9B%A0%E5%AD%90%E5%92%8C/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_1608_路径统计.cpp](Practice/P_1608_%E8%B7%AF%E5%BE%84%E7%BB%9F%E8%AE%A1.cpp) | 最短路与差分约束 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_1608_%E8%B7%AF%E5%BE%84%E7%BB%9F%E8%AE%A1/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_1775_石子合并_弱化版.cpp](Practice/P_1775_%E7%9F%B3%E5%AD%90%E5%90%88%E5%B9%B6_%E5%BC%B1%E5%8C%96%E7%89%88.cpp) | 背包与动态规划 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_1775_%E7%9F%B3%E5%AD%90%E5%90%88%E5%B9%B6_%E5%BC%B1%E5%8C%96%E7%89%88/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_1807_最长路.cpp](Practice/P_1807_%E6%9C%80%E9%95%BF%E8%B7%AF.cpp) | 拓扑排序与图遍历 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_1807_%E6%9C%80%E9%95%BF%E8%B7%AF/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_1835_素数密度.cpp](Practice/P_1835_%E7%B4%A0%E6%95%B0%E5%AF%86%E5%BA%A6.cpp) | 数论与组合数学 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_1835_%E7%B4%A0%E6%95%B0%E5%AF%86%E5%BA%A6/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_1880_NOI_1995_石子合并.cpp](Practice/P_1880_NOI_1995_%E7%9F%B3%E5%AD%90%E5%90%88%E5%B9%B6.cpp) | 背包与动态规划 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_1880_NOI_1995_%E7%9F%B3%E5%AD%90%E5%90%88%E5%B9%B6/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_1962_斐波那契数列.cpp](Practice/P_1962_%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.cpp) | 矩阵快速幂 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_1962_%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_2822_NOIP_2016_提高组_组合数问题.cpp](Practice/P_2822_NOIP_2016_%E6%8F%90%E9%AB%98%E7%BB%84_%E7%BB%84%E5%90%88%E6%95%B0%E9%97%AE%E9%A2%98.cpp) | 数论与组合数学 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_2822_NOIP_2016_%E6%8F%90%E9%AB%98%E7%BB%84_%E7%BB%84%E5%90%88%E6%95%B0%E9%97%AE%E9%A2%98/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_2865_USACO_06_NOV_Roadblocks_G.cpp](Practice/P_2865_USACO_06_NOV_Roadblocks_G.cpp) | 最短路与差分约束 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_2865_USACO_06_NOV_Roadblocks_G/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_2910_USACO_08_OPEN_Clear_And_Present_Danger_S.cpp](Practice/P_2910_USACO_08_OPEN_Clear_And_Present_Danger_S.cpp) | 最短路与差分约束 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_2910_USACO_08_OPEN_Clear_And_Present_Danger_S/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_3146_USACO_16_OPEN_248_G.cpp](Practice/P_3146_USACO_16_OPEN_248_G.cpp) | 背包与动态规划 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_3146_USACO_16_OPEN_248_G/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_3147_USACO_16_OPEN_262144_P.cpp](Practice/P_3147_USACO_16_OPEN_262144_P.cpp) | 背包与动态规划 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_3147_USACO_16_OPEN_262144_P/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_3275_SCOI_2011_糖果.cpp](Practice/P_3275_SCOI_2011_%E7%B3%96%E6%9E%9C.cpp) | 最短路与差分约束 | 多方法（3 种） | [3 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_3275_SCOI_2011_%E7%B3%96%E6%9E%9C/README.md) |
+| [Practice/P_3385_模板_负环.cpp](Practice/P_3385_%E6%A8%A1%E6%9D%BF_%E8%B4%9F%E7%8E%AF.cpp) | 最短路与差分约束 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_3385_%E6%A8%A1%E6%9D%BF_%E8%B4%9F%E7%8E%AF/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_3601_签到题.cpp](Practice/P_3601_%E7%AD%BE%E5%88%B0%E9%A2%98.cpp) | 数论与组合数学 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_3601_%E7%AD%BE%E5%88%B0%E9%A2%98/%E6%96%B9%E6%B3%9501.cpp) |
+| [Practice/P_3916_图的遍历.cpp](Practice/P_3916_%E5%9B%BE%E7%9A%84%E9%81%8D%E5%8E%86.cpp) | 拓扑排序与图遍历 | 多方法（2 种） | [2 种方法与对照](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_3916_%E5%9B%BE%E7%9A%84%E9%81%8D%E5%8E%86/README.md) |
+| [Practice/P_5960_模板_差分约束.cpp](Practice/P_5960_%E6%A8%A1%E6%9D%BF_%E5%B7%AE%E5%88%86%E7%BA%A6%E6%9D%9F.cpp) | 最短路与差分约束 | 注释封存单方法 | [恢复方法](../../06_%E8%A7%A3%E6%B3%95%E6%95%B4%E7%90%86/03_%E9%A2%98%E7%9B%AE/%E6%B4%9B%E8%B0%B7/Practice/P_5960_%E6%A8%A1%E6%9D%BF_%E5%B7%AE%E5%88%86%E7%BA%A6%E6%9D%9F/%E6%96%B9%E6%B3%9501.cpp) |
